@@ -520,6 +520,7 @@ footer .social-links {
     color: initial;
     background-color: initial;
     filter: initial;
+    border: initial;
   }
 
   nav#navigation .close-menu,
